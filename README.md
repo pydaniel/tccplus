@@ -1,4 +1,4 @@
-# tccplus
+# tccplus+
 tccutil with extended capabilities allowing you to grant/remove accessibility permissions to any app.
 
 I never recommend manually modifying any system database because if a mistake is made you risk boot-looping your computer. This is why this tool is using the undocumented TCC.framework to make changes just like macOS does internally. 
